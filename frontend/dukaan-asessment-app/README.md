@@ -7,7 +7,7 @@ This is a static payout page
 - Frontend:- [Deploy Link](https://6586692a30feee51b692587a--sunny-ganache-65aa9f.netlify.app/)
 
 ## Video Walkthrough of the project
-- Vedio link:- https://drive.google.com/file/d/1dZenvBgY90D1l0mS2nvcH9WYo_BxSuBG/view?usp=sharing
+- Vedio link:- [Presentation Video](https://drive.google.com/file/d/1g7tA0o9Fbw_pPk1cS4FPHdOey3fqTosK/view?usp=sharing)
 
 ## Features
 List out the key features of your application.
